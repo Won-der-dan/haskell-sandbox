@@ -104,3 +104,4 @@ instance Cipher Rot where
     encode Rot text = rotEncoder text
     decode Rot text = rotDecoder text
 
+(test)
